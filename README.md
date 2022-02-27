@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>🎊𝐂𝐨𝐧𝐟𝐮𝐌𝐨𝐝𝐬🎊</b>
+  <b>✨ MITO X ✨</b>
 </h1>
 
 <p align="center">
@@ -53,9 +53,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-<h4 align="center">Copyright (C) 2021 <a href="https://github.com/Confusion245">Alc-Api</a></h4>
+<h4 align="center">Copyright (C) 2022 <a href="https://github.com/Saidemx">SAIDEM X</a></h4>
 
-Project [Alc-Api](https://github.com/Confusion245/alc-api) is free software: you can redistribute it and/or modify
+Project [SAIDEMX](https://github.com/Saidemx) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
